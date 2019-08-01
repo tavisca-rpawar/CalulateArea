@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace CalulateArea
+﻿namespace CalulateArea
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
